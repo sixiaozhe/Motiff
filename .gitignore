@@ -1,0 +1,13 @@
+# Large source & rendered sample media (keep the repo light)
+samples/*.mp4
+samples/*.png
+samples/*.gif
+
+# Windows metadata
+*:Zone.Identifier
+*.Zone.Identifier
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
