@@ -52,6 +52,10 @@ nothing but a shell.
 
 ![motion trail](docs/demo/trail.gif)
 
+**Rain & foliage** — high-frequency motion (rain, leaves, water) also lights up
+
+![rain highlight](docs/demo/rain.gif)
+
 ### Install
 
 Requirements: [`ffmpeg`](https://ffmpeg.org/download.html) on your `PATH`.
